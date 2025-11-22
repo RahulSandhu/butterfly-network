@@ -1,0 +1,17 @@
+# Environments and configuration
+.venv/
+config/
+
+# Jupyter notebooks
+notebooks/.ipynb_checkpoints
+
+# Data
+data/leedsbutterfly/images/
+data/leedsbutterfly/segmentations/
+
+# Assets and Media
+images/logos/
+
+# Reports and documentation
+report/*
+!report/main.pdf
