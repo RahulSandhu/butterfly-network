@@ -10,7 +10,7 @@ data/leedsbutterfly/images/
 data/leedsbutterfly/segmentations/
 
 # Assets and Media
-images/logos/
+images/logos
 
 # Reports and documentation
 report/*

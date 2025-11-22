@@ -5,12 +5,13 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "butterfly-network"
 version = "0.1.0"
-description = "Network analysis of the Leeds butterfly Network Dataset."
+description = "Network analysis of the Leeds Butterfly Dataset."
 readme = "README.md"
 requires-python = ">=3.8"
 license = {file = "LICENSE"}
 authors = [
   {name = "Ravneet-Rahul Sandhu Singh", email = "rahulsandhu542001@gmail.com"},
+  {name = "Sofía González Estrada", email = "sofigonzalez2012@gmail.com"},
 ]
 keywords = ["python", "data-science", "butterfly"]
 classifiers = [
