@@ -1,6 +1,6 @@
 <div align="justify">
 
-    # Butterfly Similarity Network Analysis
+# Butterfly Similarity Network Analysis
 
 This repository contains the complete workflow for analyzing the Leeds
 Butterfly Dataset similarity network using community detection algorithms
