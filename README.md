@@ -47,7 +47,7 @@ where:
 - **Labels** correspond to the biological scientific names (e.g., _Danaus
   plexippus_, _Vanessa cardui_).
 
-## 📊 Key Findings
+## 📊 Results
 
 Our analysis of the network structure yielded the following insights regarding
 visual vs. biological classification:
