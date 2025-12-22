@@ -2,16 +2,17 @@
 .venv/
 config/
 
-# Jupyter notebooks
-notebooks/.ipynb_checkpoints
-
 # Data
 data/leedsbutterfly/images/
 data/leedsbutterfly/segmentations/
 
-# Assets and Media
+# Jupyter notebooks
+notebooks/.ipynb_checkpoints
+
+# Assets and media
 images/logos
 
-# Reports and documentation
+# Report
 report/*
+
 !report/main.pdf
