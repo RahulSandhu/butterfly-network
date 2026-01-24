@@ -71,7 +71,7 @@ visual vs. biological classification:
   (Josiah Wang, Katja Markert, and Mark Everingham) — _Also available via
   [SNAP](https://snap.stanford.edu/biodata/datasets/10029/10029-SS-Butterfly.html)
   and [Zenodo](https://zenodo.org/records/7558895)_
-- Developed as part of the Complex Networks course of the Master in Health Data
-  Science at Universitat Rovira i Virgili (URV)
+- Developed as part of the Complex Networks course in the Master in Health Data
+  Science program at Universitat Rovira i Virgili (URV)
 
 </div>
